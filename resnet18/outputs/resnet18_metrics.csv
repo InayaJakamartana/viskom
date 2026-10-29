@@ -1,0 +1,2 @@
+Model,Total Parameters,Trainable Parameters,Model Size (MB),Total Training Time (s),Avg Time per Epoch (s),Test Accuracy (%),Macro Precision,Macro Recall,Macro F1-Score,Weighted Precision,Weighted Recall,Weighted F1-Score,Inference Latency (ms/img),Throughput (img/s),Best Epoch
+ResNet-18,"11,179,590","11,179,590",42.72,718.35,35.92,92.11,0.9368,0.9134,0.9217,0.9275,0.9211,0.9214,4.64,215.65,15
