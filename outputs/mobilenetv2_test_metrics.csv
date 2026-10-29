@@ -1,0 +1,24 @@
+Metric,Value
+Test Accuracy (%),92.7577
+Macro Precision (%),92.6162
+Macro Recall (%),93.1099
+Macro F1-Score (%),92.7527
+Weighted Precision (%),92.8758
+Weighted Recall (%),92.7577
+Weighted F1-Score (%),92.7104
+F1 Cardboard (%),96.7742
+F1 Glass (%),92.1053
+F1 Metal (%),93.1298
+F1 Paper (%),94.7977
+F1 Plastic (%),86.9565
+Total Parameters,2230277
+Trainable Parameters,1687749
+Frozen Parameters,542528
+Model Size (MB),8.7401
+Mean Inference Latency (ms),15.9128
+Inference Throughput (img/s),47.09
+Phase 1 Training Time (s),593.4
+Phase 2 Training Time (s),706.2
+Total Training Time (s),1299.6
+Training Device,cpu
+Best Checkpoint,c:\Users\Asus\Downloads\viskom\outputs\ckpt_phase2_best.pth

@@ -1,0 +1,15 @@
+MobileNetV2 Garbage Classification — Test Set
+================================================================
+Best checkpoint : c:\Users\Asus\Downloads\viskom\outputs\ckpt_phase2_best.pth
+
+              precision    recall  f1-score   support
+
+   Cardboard     0.9524    0.9836    0.9677        61
+       Glass     0.9091    0.9333    0.9211        75
+       Metal     0.8841    0.9839    0.9313        62
+       Paper     0.9762    0.9213    0.9480        89
+     Plastic     0.9091    0.8333    0.8696        72
+
+    accuracy                         0.9276       359
+   macro avg     0.9262    0.9311    0.9275       359
+weighted avg     0.9288    0.9276    0.9271       359
